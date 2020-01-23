@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\пользователь\\source\\repos\\Selenium\\Selenium\\Selenium.csproj": {}
+    "D:\\Загрузки\\Обучение\\Программирование\\Selenium First\\Selenium\\Selenium\\Selenium\\Selenium.csproj": {}
   },
   "projects": {
-    "C:\\Users\\пользователь\\source\\repos\\Selenium\\Selenium\\Selenium.csproj": {
+    "D:\\Загрузки\\Обучение\\Программирование\\Selenium First\\Selenium\\Selenium\\Selenium\\Selenium.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\пользователь\\source\\repos\\Selenium\\Selenium\\Selenium.csproj",
+        "projectUniqueName": "D:\\Загрузки\\Обучение\\Программирование\\Selenium First\\Selenium\\Selenium\\Selenium\\Selenium.csproj",
         "projectName": "Selenium",
-        "projectPath": "C:\\Users\\пользователь\\source\\repos\\Selenium\\Selenium\\Selenium.csproj",
+        "projectPath": "D:\\Загрузки\\Обучение\\Программирование\\Selenium First\\Selenium\\Selenium\\Selenium\\Selenium.csproj",
         "packagesPath": "C:\\Users\\пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\пользователь\\source\\repos\\Selenium\\Selenium\\obj\\",
+        "outputPath": "D:\\Загрузки\\Обучение\\Программирование\\Selenium First\\Selenium\\Selenium\\Selenium\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

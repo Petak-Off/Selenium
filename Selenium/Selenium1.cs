@@ -29,14 +29,13 @@ namespace Tests
             {
                 driver.Url = "http://www.google.com/";
                 driver.FindElement(By.ClassName("J9leP")).Click();
-                driver.FindElement(By.Id("K68")).Click();
-                driver.FindElement(By.Id("K84")).Click();
-                driver.FindElement(By.Id("K188")).Click();
-                //driver.FindElement(By.Name("q")).SendKeys("webdriver");
+                driver.FindElement(By.Id("K49")).Click();
+                driver.FindElement(By.Id("K50")).Click();
+                driver.FindElement(By.Id("K51")).Click();
                 driver.FindElement(By.Name("q")).SendKeys(Keys.Enter);
-                //_ = wait.Until(ExpectedConditions.TitleIs("веб - Поиск в Google"));
-            }   
-
+                _ = wait.Until(ExpectedConditions.TitleIs("123 - Поиск в Google"));
+            }
+           
             [TearDown]
             public void Stop()
             {

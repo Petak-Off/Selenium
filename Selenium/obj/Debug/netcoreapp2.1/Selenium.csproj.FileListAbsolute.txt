@@ -13,3 +13,17 @@ C:\Users\пользователь\source\repos\Selenium\Selenium\obj\Debug\netco
 C:\Users\пользователь\source\repos\Selenium\Selenium\bin\Debug\netcoreapp2.1\Selenium.pdb
 C:\Users\пользователь\source\repos\Selenium\Selenium\obj\Debug\netcoreapp2.1\Selenium.dll
 C:\Users\пользователь\source\repos\Selenium\Selenium\obj\Debug\netcoreapp2.1\Selenium.pdb
+D:\Загрузки\Обучение\Программирование\Selenium First\Selenium\Selenium\Selenium\obj\Debug\netcoreapp2.1\Selenium.csproj.CoreCompileInputs.cache
+D:\Загрузки\Обучение\Программирование\Selenium First\Selenium\Selenium\Selenium\obj\Debug\netcoreapp2.1\Selenium.AssemblyInfoInputs.cache
+D:\Загрузки\Обучение\Программирование\Selenium First\Selenium\Selenium\Selenium\obj\Debug\netcoreapp2.1\Selenium.AssemblyInfo.cs
+D:\Загрузки\Обучение\Программирование\Selenium First\Selenium\Selenium\Selenium\obj\Debug\netcoreapp2.1\Selenium.dll
+D:\Загрузки\Обучение\Программирование\Selenium First\Selenium\Selenium\Selenium\obj\Debug\netcoreapp2.1\Selenium.pdb
+D:\Загрузки\Обучение\Программирование\Selenium First\Selenium\Selenium\Selenium\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Загрузки\Обучение\Программирование\Selenium First\Selenium\Selenium\Selenium\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Загрузки\Обучение\Программирование\Selenium First\Selenium\Selenium\Selenium\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Загрузки\Обучение\Программирование\Selenium First\Selenium\Selenium\Selenium\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Загрузки\Обучение\Программирование\Selenium First\Selenium\Selenium\Selenium\bin\Debug\netcoreapp2.1\Selenium.deps.json
+D:\Загрузки\Обучение\Программирование\Selenium First\Selenium\Selenium\Selenium\bin\Debug\netcoreapp2.1\Selenium.runtimeconfig.json
+D:\Загрузки\Обучение\Программирование\Selenium First\Selenium\Selenium\Selenium\bin\Debug\netcoreapp2.1\Selenium.runtimeconfig.dev.json
+D:\Загрузки\Обучение\Программирование\Selenium First\Selenium\Selenium\Selenium\bin\Debug\netcoreapp2.1\Selenium.dll
+D:\Загрузки\Обучение\Программирование\Selenium First\Selenium\Selenium\Selenium\bin\Debug\netcoreapp2.1\Selenium.pdb
