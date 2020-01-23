@@ -1,0 +1,15 @@
+C:\Users\пользователь\source\repos\Selenium\Selenium\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\пользователь\source\repos\Selenium\Selenium\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\пользователь\source\repos\Selenium\Selenium\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\пользователь\source\repos\Selenium\Selenium\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\пользователь\source\repos\Selenium\Selenium\bin\Debug\netcoreapp2.1\Selenium.deps.json
+C:\Users\пользователь\source\repos\Selenium\Selenium\bin\Debug\netcoreapp2.1\Selenium.runtimeconfig.json
+C:\Users\пользователь\source\repos\Selenium\Selenium\bin\Debug\netcoreapp2.1\Selenium.runtimeconfig.dev.json
+C:\Users\пользователь\source\repos\Selenium\Selenium\bin\Debug\netcoreapp2.1\Selenium.dll
+C:\Users\пользователь\source\repos\Selenium\Selenium\obj\Debug\netcoreapp2.1\Selenium.csprojAssemblyReference.cache
+C:\Users\пользователь\source\repos\Selenium\Selenium\obj\Debug\netcoreapp2.1\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\source\repos\Selenium\Selenium\obj\Debug\netcoreapp2.1\Selenium.AssemblyInfoInputs.cache
+C:\Users\пользователь\source\repos\Selenium\Selenium\obj\Debug\netcoreapp2.1\Selenium.AssemblyInfo.cs
+C:\Users\пользователь\source\repos\Selenium\Selenium\bin\Debug\netcoreapp2.1\Selenium.pdb
+C:\Users\пользователь\source\repos\Selenium\Selenium\obj\Debug\netcoreapp2.1\Selenium.dll
+C:\Users\пользователь\source\repos\Selenium\Selenium\obj\Debug\netcoreapp2.1\Selenium.pdb
