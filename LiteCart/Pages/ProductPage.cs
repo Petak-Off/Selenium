@@ -29,7 +29,7 @@ namespace LiteCart.Pages
             System.Collections.Generic.IList<OpenQA.Selenium.IWebElement> options = select.Options;
             select.SelectByText(yourselect);
             return;
-            //return driver.FindElement(By.Name("options[Size]"));
+            
         }
         public IWebElement CartProduct()
         {

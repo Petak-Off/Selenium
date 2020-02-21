@@ -32,11 +32,11 @@ namespace LiteCart
 
         public void SetEmail(string email)
         {
-            driver.FindElement(By.ClassName("input-group-addon")).SendKeys(email);
+            driver.FindElement(By.Name("Email")).SendKeys(email);
         }
         public void SetDesiredPassword(string desiredpassword)
         {
-            driver.FindElement(By.ClassName("form-control")).SendKeys(desiredpassword);
+            driver.FindElement(By.Name("password")).SendKeys(desiredpassword);
         }
         public void SetConfirmPassword(string confirmdpassword)
         {

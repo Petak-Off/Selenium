@@ -19,8 +19,6 @@ namespace LiteCart.LiteCart_Tests.ProductTests
             private CategoriesPage categoriesPage;
             private ProductPage productPage;
 
-
-
             [SetUp]
             public void Start()
             {
@@ -38,16 +36,14 @@ namespace LiteCart.LiteCart_Tests.ProductTests
 
                 categoriesPage.GoToUrl();
                 categoriesPage.ProductYellowDuck().Click();
-                Thread.Sleep(2500);
+                Thread.Sleep(1500);
                 productPage.SelectSize("Small");  
-                Thread.Sleep(2500);
+                Thread.Sleep(1500);
                 productPage.ButtonAddCartProduct().Click();
-                Thread.Sleep(2500);
+                Thread.Sleep(1500);
                 productPage.CartProduct().Click();
-                Thread.Sleep(2500);
+                Thread.Sleep(1500);
                 driver.FindElement(By.CssSelector("[href*='http://localhost/litecart/rubber-ducks-c-1/subcategory-c-2/yellow-duck-p-1']")).Click();
-            
-
             }
 
 
@@ -57,7 +53,6 @@ namespace LiteCart.LiteCart_Tests.ProductTests
                 driver.Quit();
                 driver = null;
             }
-
         }
     }
 }
